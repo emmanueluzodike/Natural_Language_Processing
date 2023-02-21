@@ -25,4 +25,9 @@ Rules of the game:
 - for every letter guessed, the user gains one point and losses 1 point for incorrect guesses
 - The game is over when a user losses all their points or the user chooses to quit.
 
-you can find the [code here](https://github.com/emmanueluzodike/Natural_Language_Processing/blob/main/Word%20Guessing%20Game%20-%20NLTK%20Demo/main.py)
+You can find the [code here](https://github.com/emmanueluzodike/Natural_Language_Processing/blob/main/Word%20Guessing%20Game%20-%20NLTK%20Demo/main.py)
+
+## WordNet Demo
+This notebook contains a simple demo of WordNet.
+
+you can find the [notebook here](https://github.com/emmanueluzodike/Natural_Language_Processing/blob/main/Word%20Guessing%20Game%20-%20NLTK%20Demo/main.py)
