@@ -30,4 +30,4 @@ You can find the [code here](https://github.com/emmanueluzodike/Natural_Language
 ## WordNet Demo
 This notebook contains a simple demo of WordNet.
 
-you can find the [notebook here](https://github.com/emmanueluzodike/Natural_Language_Processing/blob/main/Word%20Guessing%20Game%20-%20NLTK%20Demo/main.py)
+You can find the [notebook here](https://github.com/emmanueluzodike/Natural_Language_Processing/blob/main/Word%20Guessing%20Game%20-%20NLTK%20Demo/main.py)
