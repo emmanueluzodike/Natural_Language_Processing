@@ -31,3 +31,26 @@ You can find the [code here](https://github.com/emmanueluzodike/Natural_Language
 This notebook contains a simple demo of WordNet.
 
 You can find the [notebook here](https://github.com/emmanueluzodike/Natural_Language_Processing/blob/main/Word%20Guessing%20Game%20-%20NLTK%20Demo/main.py)
+
+## N Gram Language Model
+This folder contains two programs, and datafiles that contain `text` written in 3 different languages (English, French and Italian). It also contains a `test` file to test our N gram model and `sol` file to perform our performance metric.
+
+Program 1:
+- Reads a text file and removes new lines.
+- Tokenizes the text.
+- Uses nltk to create a unigram and bigram list.
+- creates a bigram and unigram dictionary that. matches the ngram to its count (number of occurances of the ngram).
+- Pickles the dictionary which will be used in program 2.
+- We do this for all 3 languages so in total, 6 dictionaries.
+
+You can find the [code here](https://github.com/emmanueluzodike/Natural_Language_Processing/blob/main/N%20Gram%20Language%20Model/main_program_1.py)
+
+Progam 2:
+- Reads in the pickled dictionaries created in program 1.
+- For each line in the test file, calculate a probability for each lanuage
+- Output the langauge with the highest probability a file
+- Outputs the accuracy of the calculations.
+
+You can find the [code here](https://github.com/emmanueluzodike/Natural_Language_Processing/blob/main/N%20Gram%20Language%20Model/main_program_2.py)
+
+You can find the [data files here](https://github.com/emmanueluzodike/Natural_Language_Processing/tree/main/N%20Gram%20Language%20Model/data)
