@@ -54,3 +54,6 @@ Progam 2:
 You can find the [code here](https://github.com/emmanueluzodike/Natural_Language_Processing/blob/main/N%20Gram%20Language%20Model/main_program_2.py)
 
 You can find the [data files here](https://github.com/emmanueluzodike/Natural_Language_Processing/tree/main/N%20Gram%20Language%20Model/data)
+
+## Parsing sentences
+You can find the [document here](https://github.com/emmanueluzodike/Natural_Language_Processing/blob/main/Parsing%20Sentences/Document.pdf)
