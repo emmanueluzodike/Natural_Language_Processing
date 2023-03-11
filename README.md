@@ -57,3 +57,6 @@ You can find the [data files here](https://github.com/emmanueluzodike/Natural_La
 
 ## Parsing sentences
 You can find the [document here](https://github.com/emmanueluzodike/Natural_Language_Processing/blob/main/Parsing%20Sentences/Document.pdf)
+
+## Web Crawler
+you can find the [code here](https://github.com/emmanueluzodike/Natural_Language_Processing/blob/main/Webcrawler/main.py)
