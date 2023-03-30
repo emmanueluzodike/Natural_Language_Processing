@@ -60,3 +60,14 @@ You can find the [document here](https://github.com/emmanueluzodike/Natural_Lang
 
 ## Web Crawler
 you can find the [code here](https://github.com/emmanueluzodike/Natural_Language_Processing/blob/main/Webcrawler/main.py)
+
+## ACL paper summary
+you can find the [summary](https://github.com/emmanueluzodike/Natural_Language_Processing/tree/main/ACL%20Paper)
+
+## Text Classification
+
+In this program, we will create three different text classifier models using three different approaches - Naive Bayes, Logistic Regression, and Neural Networks - and compare their performance in classifying text.
+
+We will use an e-commerce dataset that contains a column with item descriptions and a class column with the category of the described item. The goal is to predict the item category based on its description
+
+ you can find the [code here](https://github.com/emmanueluzodike/Natural_Language_Processing/tree/main/Text%20Classification)
