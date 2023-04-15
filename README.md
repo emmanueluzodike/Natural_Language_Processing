@@ -71,3 +71,10 @@ In this program, we will create three different text classifier models using thr
 We will use an e-commerce dataset that contains a column with item descriptions and a class column with the category of the described item. The goal is to predict the item category based on its description
 
  you can find the [code here](https://github.com/emmanueluzodike/Natural_Language_Processing/tree/main/Text%20Classification)
+
+
+## Chatbot
+
+This is a simple chatbot that interfaces with OpenAI / ChatGPT and uses a few NLP techinques such as embedding to store a knowledgebase. It also uses NER techinques to store information about individual users
+
+you can find the [code here](https://github.com/emmanueluzodike/Natural_Language_Processing/blob/main/Chatbot/chatbot.ipynb)
