@@ -79,6 +79,14 @@ This is a simple chatbot that interfaces with OpenAI / ChatGPT and uses a few NL
 
 you can find the [code here](https://github.com/emmanueluzodike/Natural_Language_Processing/blob/main/Chatbot/chatbot.ipynb)
 
+## Text Classification 2
+
+In this program, we will create 4 different text classifing sequential model architecures using three different approaches - Dense, RNN, CNN and LTSM - and compare their performance in classifying text.
+
+We will use an e-commerce dataset that contains a column with item descriptions and a class column with the category of the described item. The goal is to predict the item category based on its description
+
+ you can find the [code here](https://github.com/emmanueluzodike/Natural_Language_Processing/tree/main/Text%20Classification)
+
 # Summary
 
 In this NLP class, I have gained valuable knowledge on various Natural Language Processing techniques used in everyday technology, such as sentiment analysis for filtering negative comments and Named Entity Recognition and POS tagging for user information extraction. The course has sparked my interest in exploring more NLP techniques and utilizing them in personal projects and even in a professional setting. I am particularly excited about delving into Neural Networks and their applications, not only within NLP but also in other fields.
